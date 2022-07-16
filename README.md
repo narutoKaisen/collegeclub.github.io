@@ -1,1 +1,1 @@
-# collegeclub.github.io
+# collegeclubs.github.io
